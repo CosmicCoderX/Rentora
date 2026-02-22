@@ -1,8 +1,5 @@
-# RENTORA
-
-<p align="center">
-  <img src="./public/rentora.gif" alt="Rentora Logo" width="100%" />
-</p>
+# RENTORA 
+<img src="./public/rentora.gif" alt="Rentora Logo"  width="100" height="100" align="right" />
 
 **Rentora is The Unified Rental Marketplace for Spaces, Tools & Skills.**
 
