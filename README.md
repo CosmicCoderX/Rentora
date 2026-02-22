@@ -8,6 +8,8 @@
 
 Rentora is a modern rental platform application built with React, Vite, and TypeScript. It offers a seamless experience for users to browse, list, and manage rental spaces, tools, and skills featuring a sleek UI and powerful functionality.
 
+**Live Demo:** [https://rentora-seven.vercel.app](https://rentora-seven.vercel.app)
+
 ## Features
 
 - **Unified Listings**: Browse a diverse collection of rental spaces, tools, and skills with detailed descriptions, pricing, and images.
